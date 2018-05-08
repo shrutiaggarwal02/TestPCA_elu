@@ -1,4 +1,5 @@
 library(ggplot2)
+install.packages("ggfortify")
 library(ggfortify)
 try_2 <- function(z,x)
 {
